@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6db5d655.css",
-    "main.js": "/static/js/main.d0c014ac.js",
-    "static/media/profile.jpg": "/static/media/profile.64b72455072e46429ac8.jpg",
-    "static/media/Vegitable E-Com.jpg": "/static/media/Vegitable E-Com.20feb34b0b53623caf76.jpg",
-    "static/media/Jio Mart.jpg": "/static/media/Jio Mart.f44b47c7ff3f6ec029ec.jpg",
-    "static/media/Portfolio.jpg": "/static/media/Portfolio.bbb27653f29c77efa7b4.jpg",
-    "static/media/Aruvi.jpg": "/static/media/Aruvi.97f81c11731da53bf769.jpg",
-    "static/media/Puvan (Resume).pdf": "/static/media/Puvan (Resume).ffa50718f70f28fdf2a2.pdf",
-    "index.html": "/index.html",
-    "main.6db5d655.css.map": "/static/css/main.6db5d655.css.map",
-    "main.d0c014ac.js.map": "/static/js/main.d0c014ac.js.map"
+    "main.css": "/portfolio/static/css/main.6db5d655.css",
+    "main.js": "/portfolio/static/js/main.c4beae32.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.64b72455072e46429ac8.jpg",
+    "static/media/Vegitable E-Com.jpg": "/portfolio/static/media/Vegitable E-Com.20feb34b0b53623caf76.jpg",
+    "static/media/Jio Mart.jpg": "/portfolio/static/media/Jio Mart.f44b47c7ff3f6ec029ec.jpg",
+    "static/media/Portfolio.jpg": "/portfolio/static/media/Portfolio.bbb27653f29c77efa7b4.jpg",
+    "static/media/Aruvi.jpg": "/portfolio/static/media/Aruvi.97f81c11731da53bf769.jpg",
+    "static/media/Puvan (Resume).pdf": "/portfolio/static/media/Puvan (Resume).ffa50718f70f28fdf2a2.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.6db5d655.css.map": "/portfolio/static/css/main.6db5d655.css.map",
+    "main.c4beae32.js.map": "/portfolio/static/js/main.c4beae32.js.map"
   },
   "entrypoints": [
     "static/css/main.6db5d655.css",
-    "static/js/main.d0c014ac.js"
+    "static/js/main.c4beae32.js"
   ]
 }
