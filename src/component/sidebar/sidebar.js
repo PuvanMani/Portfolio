@@ -6,7 +6,7 @@ function SideBar() {
     return (
         <Box sx={{ width: "100%", display: "flex", flexDirection: "column", alignItems: 'center' }}>
             <Avatar variant="rounded" sx={{ width: { xs: "150px", sm: "200px", md: "150px" }, height: { xs: "150px", sm: "200px", md: "150px" }, borderRadius: "50%", backgroundImage: "linear-gradient(#FF9C1A 95.92%, #E80505 108.2%)", border: "3px solid transparent", position: "absolute" }} src={Profile} />
-            <Box className='smallDevice' sx={{ backgroundColor: "#FFF", width: "100%", height: { xs: "75vh", sm: "100vh", md: "75vh" }, borderRadius: "12px", pt: '20%', textAlign: "center", mt: { xs: "23%", sm: "10%", md: "30%", lg: "25%" } }}>
+            <Box className='smallDevice sm' sx={{ backgroundColor: "#FFF", width: "100%", height: { xs: "75vh", sm: "100vh", md: "75vh" }, borderRadius: "12px", pt: '20%', textAlign: "center", mt: { xs: "23%", sm: "10%", md: "30%", lg: "25%" } }}>
                 <Typography className='heading name' variant='h5' component='h5'>Puvan Mani</Typography>
                 <Typography className='content year' variant='h6' sx={{ mb: "10px" }} component='h6'>Full Stack Developer</Typography>
 
@@ -96,6 +96,7 @@ function SideBar() {
                             <Typography className='contactDescription content' variant='h6' component='h6'>Pavoorchatram, Tenkasi.</Typography>
                         </Box>
                     </Box>
+
                     <a href={PuvanResume} download="PuvanResume" target='_blank' rel="noreferrer">
                         <Button variant='contained' className='primaryButton content' disableElevation> <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8 12L3 7L4.4 5.55L7 8.15V0H9V8.15L11.6 5.55L13 7L8 12ZM2 16C1.45 16 0.979002 15.804 0.587002 15.412C0.195002 15.02 -0.000664969 14.5493 1.69779e-06 14V11H2V14H14V11H16V14C16 14.55 15.804 15.021 15.412 15.413C15.02 15.805 14.5493 16.0007 14 16H2Z" fill="#F2F7FC" />
